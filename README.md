@@ -1,6 +1,6 @@
 # The Wheel Spin
 
-A spinning wheel app for Twitch streamers — run giveaways, pick games, and create interactive moments with your viewers!
+A spinning wheel app for Twitch streamers | run giveaways, pick games, and create interactive moments with your viewers!
 
 ![Windows](https://img.shields.io/badge/Windows-10%2B-blue?logo=windows)
 [![Latest Release](https://img.shields.io/github/v/release/Thadestroy/WheelSpinPickerReleases?label=Download)](https://github.com/Thadestroy/WheelSpinPickerReleases/releases/latest)
@@ -45,7 +45,7 @@ A spinning wheel app for Twitch streamers — run giveaways, pick games, and cre
 ### Presets & Sessions
 - Save multiple wheel configurations
 - Quick-launch your favorite wheels
-- Crash recovery — never lose your entries if the app closes
+- Crash recovery | never lose your entries if the app closes
 
 ### Stream Deck Ready
 - Create custom commands for any preset
@@ -76,7 +76,7 @@ A spinning wheel app for Twitch streamers — run giveaways, pick games, and cre
 1. Add **Window Capture** source in OBS
 2. Select "The Wheel Spin" window
 3. Crop to show just the wheel area (it has a transparent background!)
-4. Control everything via chat — no need to click on the app during stream
+4. Control everything via chat | no need to click on the app during stream
 
 ---
 
@@ -99,8 +99,4 @@ The app automatically checks for updates on launch and will notify you when a ne
 
 ## Support & Feedback
 
-Found a bug or have a feature request? [Open an issue](https://github.com/Thadestroy/WheelSpinPickerReleases/issues) or reach out on Twitch!
-
----
-
-Made with love for the streaming community
+Found a bug or have a feature request? [Open an issue](https://github.com/Thadestroy/WheelSpinPickerReleases/issues)
