@@ -151,7 +151,8 @@ Use these in chat messages and entry actions:
 - `{user}` - the user who triggered the automation
 - `{wheel}` - the current wheel's name
 - `{entry}` - alias for `{winner}`
-- `{count}` - the counter value (after increment)
+- `{count}` - display counter value (after increment of that automation)
+- `{counter:CounterName}` - display value of a specfic counter (auto detects for per-user based off Twitch account)
 
 **Example:** `"Congrats {user}! The wheel landed on {winner}! Total wins: {count}"`
 
@@ -303,7 +304,8 @@ View counter values in the Automations window or use `{count}` in messages.
 ### Tracking Statistics
 - Use global counters for stream-wide stats
 - Use per-user counters to track viewer participation
-- Display counter values in chat messages with `{count}`
+- Display counter values in chat messages with `{count}` (Used when a counter increments)
+- Display specfic counter value in chat messages with `{counter:CounterName}` (Used to show saved count)
 
 ---
 
